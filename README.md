@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
 | ------- |
