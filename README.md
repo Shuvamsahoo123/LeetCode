@@ -16,11 +16,13 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0136-single-number) |
 | [0912-sort-an-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
