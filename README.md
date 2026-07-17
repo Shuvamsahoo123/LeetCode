@@ -11,6 +11,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0009-palindrome-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shuvamsahoo123/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
