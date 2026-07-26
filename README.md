@@ -31,6 +31,7 @@
 | [0136-single-number](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Heap (Priority Queue)
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
