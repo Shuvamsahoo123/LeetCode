@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -13,12 +14,14 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0189-rotate-array) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shuvamsahoo123/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
@@ -90,4 +93,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
