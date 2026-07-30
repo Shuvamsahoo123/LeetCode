@@ -16,6 +16,7 @@
 | [0066-plus-one](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0189-rotate-array) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shuvamsahoo123/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -93,6 +94,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
