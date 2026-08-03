@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0344-reverse-string) |
@@ -30,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0066-plus-one) |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
