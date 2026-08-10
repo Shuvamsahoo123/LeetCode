@@ -121,4 +121,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0014-longest-common-prefix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
