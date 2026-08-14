@@ -125,4 +125,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
