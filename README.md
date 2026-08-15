@@ -56,6 +56,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0541-reverse-string-ii) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,4 +133,5 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
