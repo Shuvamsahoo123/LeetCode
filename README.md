@@ -49,6 +49,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0027-remove-element) |
+| [0141-linked-list-cycle](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0283-move-zeroes) |
@@ -94,6 +95,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -131,7 +133,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
