@@ -42,6 +42,7 @@
 | [0189-rotate-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,4 +152,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
