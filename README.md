@@ -12,6 +12,7 @@
 | [0392-is-subsequence](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0796-rotate-string) |
+| [1528-shuffle-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1528-shuffle-string) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0682-baseball-game](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1528-shuffle-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1528-shuffle-string) |
 ## Two Pointers
 |  |
 | ------- |
