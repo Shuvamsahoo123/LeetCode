@@ -11,6 +11,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0796-rotate-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0796-rotate-string) |
 ## Math
 |  |
 | ------- |
@@ -166,4 +167,8 @@
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shuvamsahoo123/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
