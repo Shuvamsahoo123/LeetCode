@@ -45,6 +45,7 @@
 | [0189-rotate-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0283-move-zeroes) |
+| [0561-array-partition](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Heap (Priority Queue)
@@ -99,6 +101,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -175,4 +178,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0796-rotate-string) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
