@@ -12,6 +12,7 @@
 | [0392-is-subsequence](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1528-shuffle-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1528-shuffle-string) |
 ## Math
 |  |
@@ -66,6 +67,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0844-backspace-string-compare](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -127,6 +129,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,6 +168,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shuvamsahoo123/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
