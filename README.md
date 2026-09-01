@@ -24,6 +24,7 @@
 | [0070-climbing-stairs](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0189-rotate-array) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shuvamsahoo123/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -51,6 +52,7 @@
 | [0912-sort-an-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1528-shuffle-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1528-shuffle-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [0067-add-binary](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,6 +176,7 @@
 ## Recursion
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shuvamsahoo123/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -186,4 +190,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0561-array-partition) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
