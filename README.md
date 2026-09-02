@@ -26,6 +26,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shuvamsahoo123/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shuvamsahoo123/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1528-shuffle-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1528-shuffle-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shuvamsahoo123/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
