@@ -174,6 +174,7 @@
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shuvamsahoo123/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -198,6 +199,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Z Algorithm
 |  |
@@ -211,4 +213,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
