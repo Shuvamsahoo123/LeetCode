@@ -55,6 +55,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1528-shuffle-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1528-shuffle-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1929-concatenation-of-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shuvamsahoo123/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -137,6 +138,7 @@
 | [0682-baseball-game](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1929-concatenation-of-array](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
