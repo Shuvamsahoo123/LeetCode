@@ -16,6 +16,7 @@
 | [0796-rotate-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Shuvamsahoo123/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1528-shuffle-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/1528-shuffle-string) |
+| [3110-score-of-a-string](https://github.com/Shuvamsahoo123/LeetCode/tree/master/3110-score-of-a-string) |
 ## Math
 |  |
 | ------- |
